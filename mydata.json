@@ -1,0 +1,15 @@
+{
+  "posts": [
+    { "id": 1, "Name": "Mayur" },
+    { "id": 2, "Name": "Aishwarya" },
+    { "id": 3, "Name": "chaitnya" }
+     { "id": 4, "Name": "Yash" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
